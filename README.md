@@ -145,4 +145,3 @@ These findings are consolidated in the Executive Insights page to provide a conc
 | `Store+Data.xlsx` | Source dataset provided through the Udemy course |
 | `Preview/` | Dashboard screenshots |
 | `Store+Data.xlsx` | Source dataset provided through the Udemy course |
-| `Preview/` | Dashboard screenshots |
